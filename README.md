@@ -1,4 +1,4 @@
-# RyersonEngineeringCompetition2018
+# Ryerson Engineering Competition 2018
 Challenge 1
 
 Background/Scenario: 
