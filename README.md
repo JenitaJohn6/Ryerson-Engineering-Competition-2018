@@ -26,10 +26,10 @@ marketability many people may initially be against it, it would be the cheaper, 
 <h2>  Appendix </h2>
 
 ![Robotic Arm Plucking Lettuce as Instructed by <strong>The Brain</strong>](https://cdn.vox-cdn.com/thumbor/W3uuHJvCV0xbK3WF8rN88RYd6us=/0x0:8688x5792/1320x0/filters:focal(0x0:8688x5792):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13241005/Transplanter_hero.jpg)
-<p align="center"> Figure 1: Robotic Arm Plucking Lettuce as Instructed by <strong>The Brain</strong> </p>
+<p align="center"> <strong>Figure 1:</strong> Robotic Arm Plucking Lettuce as Instructed by <strong>The Brain</strong> </p>
 
 ![Autonomous Vehicle](https://scx1.b-cdn.net/csz/news/800/2017/sharedautono.jpg)
-<p align="center"> Figure 2: Seperate Lanes for A.I cars </p>
+<p align="center"> <strong>Figure 2:</strong> Seperate Lanes for A.I cars </p>
 
 <h2>  References </h2>
 
